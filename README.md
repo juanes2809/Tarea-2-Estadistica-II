@@ -14,11 +14,10 @@
 
 ## Estructura del Repositorio
 
-* [`Tarea_2_Estadistica_II.ipynb`](./Tarea_2_Estadistica_II.ipynb): Cuaderno interactivo de Jupyter con todo el código en lenguaje Python, resultados ejecutados, tablas estadísticas, figuras integradas y las interpretaciones **línea a línea** de todos los ítems de la tarea.
-* [`Informe_Tarea_2_Estadistica_II.pdf`](./Informe_Tarea_2_Estadistica_II.pdf): Informe ejecutivo y científico en formato PDF (único archivo compilado con portada institucional UIS, enlace a este repositorio, marco contextual, desarrollo estadístico, figuras de alta resolución y conclusiones).
-* [`Informe_Tarea_2_Estadistica_II.tex`](./Informe_Tarea_2_Estadistica_II.tex): Código fuente en $\LaTeX$ del informe técnico.
+* [`Tarea_2_Estadistica_II.ipynb`](./Tarea_2_Estadistica_II.ipynb): Cuaderno de Jupyter con todo el código en lenguaje Python, resultados ejecutados, tablas estadísticas, figuras integradas y las interpretaciones **línea a línea** de todos los ítems de la tarea.
+* [`Informe_Tarea_2_Estadistica_II.pdf`](./Informe_Tarea_2_Estadistica_II.pdf): Informe en formato PDF (único archivo compilado con portada institucional UIS, enlace a este repositorio, marco contextual, desarrollo estadístico, figuras de alta resolución y conclusiones). Fue generado con inteligencia artifical apartir del informe original del colab
 * [`SB11_20231.TXT`](./SB11_20231.TXT): Base de datos oficial del ICFES Saber 11° (segunda cohorte 2023-1, Calendario B, $N = 12,704$ registros y $83$ variables).
-* [`figuras/`](./figuras/): Directorio con los 8 paneles gráficos estadísticos en alta resolución ($300\text{ DPI}$).
+* [`figuras/`](./figuras/): Directorio con los gráficos estadísticos en alta resolución ($300\text{ DPI}$).
 
 ---
 
